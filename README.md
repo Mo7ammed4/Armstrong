@@ -1,6 +1,8 @@
-# H. Armstrong numbers problem selected from http://www.sharjah.ac.ae/en/Media/Conferences/ME-GPC/Documents/gpc17%20Problem%20Set.pdf
+# H. Armstrong numbers problem 
 
-Short Description
+selected from http://www.sharjah.ac.ae/en/Media/Conferences/ME-GPC/Documents/gpc17%20Problem%20Set.pdf
+
+Short Description.
 A number that has n digits is considered an Armstrong number if the summation of every digit raised
 to the power n is equal to the same number: 
 
